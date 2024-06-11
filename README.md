@@ -1,4 +1,5 @@
 # Curriculum Vitae
+- nato a Roma il 30/04/1996  
 
 ### Educazione
 - [2015] Diploma in Grafica pubblicitaria presso il "Liceo Artistico di Tivoli"
